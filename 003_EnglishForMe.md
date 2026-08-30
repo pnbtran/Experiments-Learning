@@ -8,7 +8,7 @@
 | 2 | Uniform Resource Locator | URL | Địa chỉ tài nguyên trên web | 
 | 3 | Structured Query Language | SQL | Ngôn ngữ truy vấn CSDL | 
 | 4 | Central Processing Unit | CPU | Bộ xử lí trung tâm | 
-| 5 | Random Access Memory | Bộ nhớ truy cập ngẫu nhiên | 
+| 5 | Random Access Memory | RAM | Bộ nhớ truy cập ngẫu nhiên | 
 | 6 | HyperText Transfer Protocol | HTTP | Giao thức truyền siêu văn bản | 
 | 7 | HyperText Markup Language | HTML | Ngôn ngữ đánh dấu siêu văn bản | 
 | 8 | Cascading Style Sheets | CSS | Bảng dịch kiểu tầng (trang trí giao diện) | 
@@ -159,154 +159,154 @@
 | 22 | .gitignore | file liệt kê những gì Git bỏ qua (không add lên remote) | 
 
 ### Một số mẫu câu thông dụng 
-- 1. My laptop has 16 gigabytes of RAM and a 512-gigabyte SSD./ 
+- [1]. My laptop has 16 gigabytes of RAM and a 512-gigabyte SSD./ 
   Laptop của tôi có 16 gigabyte RAM và một ổ SSD 512 gigabyte.
 
-- 2. The CPU is the brain of the computer; it processes all the instructions./ 
+- [2]. The CPU is the brain of the computer; it processes all the instructions./ 
   CPU là bộ não của máy tính; nó xử lý toàn bộ các lệnh.
 
-- 3. Please install the latest driver for your graphics card./ 
+- [3]. Please install the latest driver for your graphics card./ 
   Vui lòng cài đặt driver mới nhất cho card đồ họa của bạn.
 
-- 4. Have you tried to reboot the machine? It usually fixes the issue./ 
+- [4]. Have you tried to reboot the machine? It usually fixes the issue./ 
   Bạn đã thử khởi động lại máy chưa? Cách đó thường sửa được lỗi.
 
-- 5. The operating system won’t boot up after the last update./ 
+- [5]. The operating system won’t boot up after the last update./ 
   Hệ điều hành không khởi động được sau bản cập nhật gần nhất.
 
-- 6. Just plug in the keyboard and the mouse into the USB ports./ 
+- [6]. Just plug in the keyboard and the mouse into the USB ports./ 
   Chỉ cần cắm bàn phím và chuột vào cổng USB.
 
-- 7. We need to upgrade the hardware because the software is too slow./ 
+- [7]. We need to upgrade the hardware because the software is too slow./ 
   Chúng ta cần nâng cấp phần cứng vì phần mềm chạy quá chậm.
 
-- 8. Don’t forget to update the firmware on the router./ 
+- [8]. Don’t forget to update the firmware on the router./ 
   Đừng quên cập nhật firmware cho router.
 
-- 9. This application runs on both Windows and Linux./ 
+- [9]. This application runs on both Windows and Linux./ 
   Ứng dụng này chạy được trên cả Windows và Linux.
 
-- 10. I had to uninstall the old app before installing the new version./ 
+- [10]. I had to uninstall the old app before installing the new version./ 
   Tôi phải gỡ cài đặt ứng dụng cũ trước khi cài phiên bản mới.
 
-- 11. Open the file at slash user slash local slash bin./ 
+- [11]. Open the file at slash user slash local slash bin./ 
   Mở file tại đường dẫn /usr/local/bin.
 
-- 12. Type dot slash before the script name to run it./ 
+- [12]. Type dot slash before the script name to run it./ 
   Gõ “dot slash” (./) trước tên script để chạy nó.
 
-- 13. My email is user, dot, dev, at, gmail, dot, com./ 
+- [13]. My email is user, dot, dev, at, gmail, dot, com./ 
   Email của tôi là user.dev@gmail.com.
 
-- 14. The variable name uses an underscore, not a dash./ 
+- [14]. The variable name uses an underscore, not a dash./ 
   Tên biến dùng dấu gạch dưới, không phải gạch nối.
 
-- 15. Wrap the string in double quotes, please./ 
+- [15]. Wrap the string in double quotes, please./ 
   Bọc chuỗi trong dấu nháy kép giúp tôi nhé.
 
-- 16. Add a hash in front to comment out that line./ 
+- [16]. Add a hash in front to comment out that line./ 
   Thêm dấu thăng ở đầu để chú thích (vô hiệu hóa) dòng đó.
 
-- 17. Pipe the output into grep, then press Enter./ 
+- [17]. Pipe the output into grep, then press Enter./ 
   Nối (pipe) đầu ra vào lệnh grep, rồi nhấn Enter.
 
-- 18. On Windows, the path uses a backslash instead of a forward slash./ 
+- [18]. On Windows, the path uses a backslash instead of a forward slash./ 
   Trên Windows, đường dẫn dùng gạch chéo ngược thay vì gạch chéo xuôi.
 
-- 19. Put the values inside square brackets to make an array/ 
+- [19]. Put the values inside square brackets to make an array/ 
   Đặt các giá trị trong ngoặc vuông để tạo một mảng.
 
-- 20. Use double equals to compare, single equals to assign./ 
+- [20]. Use double equals to compare, single equals to assign./ 
   Dùng bằng-kép để so sánh, bằng-đơn để gán giá trị.
 
-- 21. Declare a variable and assign a value to it./ 
+- [21]. Declare a variable and assign a value to it./ 
   Khai báo một biến và gán một giá trị cho nó.
 
-- 22. This function takes two parameters and returns a boolean./ 
+- [22]. This function takes two parameters and returns a boolean./ 
   Hàm này nhận hai tham số và trả về một giá trị boolean.
 
-- 23. Loop through the array and print each element./ 
+- [23]. Loop through the array and print each element./ 
   Lặp qua mảng và in ra từng phần tử.
 
-- 24. We call this function inside the loop./ 
+- [24]. We call this function inside the loop./ 
   Chúng ta gọi hàm này bên trong vòng lặp.
 
-- 25. The condition checks whether the user is logged in./ 
+- [25]. The condition checks whether the user is logged in./ 
   Điều kiện kiểm tra xem người dùng đã đăng nhập hay chưa.
 
-- 26. A string is a sequence of characters; an integer is a whole number./ 
+- [26]. A string is a sequence of characters; an integer is a whole number./ 
   String là một chuỗi ký tự; integer là một số nguyên.
 
-- 27. Pass the user id as an argument to the method./ 
+- [2]. Pass the user id as an argument to the method./ 
   Truyền user id như một đối số vào phương thức.
 
-- 28. This is a constant, so its value never changes./ 
+- [28]. This is a constant, so its value never changes./ 
   Đây là một hằng số, nên giá trị của nó không bao giờ thay đổi.
 
-- 29. The code won’t compile because of a syntax error on line ten./ 
+- [29]. The code won’t compile because of a syntax error on line ten./ 
   Code không biên dịch được vì có lỗi cú pháp ở dòng mười.
 
-- 30. We iterate over the list until the condition becomes false./ 
+- [30]. We iterate over the list until the condition becomes false./ 
   Chúng ta lặp qua danh sách cho tới khi điều kiện trở thành false.
 
-- 31. The app crashes when I click the Save button./ 
+- [31]. The app crashes when I click the Save button./ 
   Ứng dụng bị sập khi tôi bấm nút Save.
 
-- 32. I can’t reproduce the bug on my machine./ 
+- [32]. I can’t reproduce the bug on my machine./ 
   Tôi không tái hiện được lỗi này trên máy của mình.
 
-- 33. It throws a null pointer exception at line 42./ 
+- [33]. It throws a null pointer exception at line 42./ 
   Nó ném ra lỗi null pointer ở dòng 42.
 
-- 34. Let me check the stack trace to find the root cause./ 
+- [34]. Let me check the stack trace to find the root cause./ 
   Để tôi xem stack trace để tìm nguyên nhân gốc rễ.
 
-- 35. This only happens in an edge case, when the list is empty./ 
+- [35]. This only happens in an edge case, when the list is empty./ 
   Lỗi này chỉ xảy ra ở trường hợp biên, khi danh sách rỗng.
 
-- 36. I added a workaround, but we still need a proper fix./ 
-Tôi đã thêm một giải pháp tạm, nhưng ta vẫn cần một bản sửa đúng nghĩa.
+- [36]. I added a workaround, but we still need a proper fix./ 
+  Tôi đã thêm một giải pháp tạm, nhưng ta vẫn cần một bản sửa đúng nghĩa.
 
-- 37. We should refactor this function to improve performance./ 
+- [37]. We should refactor this function to improve performance./ 
   Chúng ta nên tái cấu trúc hàm này để cải thiện hiệu năng.
 
-- 38. There might be a memory leak in the background worker./ 
+- [38]. There might be a memory leak in the background worker./ 
   Có thể có rò rỉ bộ nhớ trong tiến trình chạy nền.
 
-- 39. This algorithm sorts the input in O(n log n) time./ 
+- [39]. This algorithm sorts the input in O(n log n) time./ 
   Thuật toán này sắp xếp đầu vào trong thời gian O(n log n).
 
-- 40. First we validate the input, then we run the loop, and finally we return the output./ 
+- [40]. First we validate the input, then we run the loop, and finally we return the output./ 
   Đầu tiên ta kiểm tra đầu vào, sau đó chạy vòng lặp, và cuối cùng trả về đầu ra. 
 
-- 41. I’ll push my changes to the remote in a minute./ 
+- [41]. I’ll push my changes to the remote in a minute./ 
   Tôi sẽ đẩy các thay đổi của mình lên remote trong ít phút nữa.
 
-- 42. Can you review my PR when you have time?/ 
+- [42]. Can you review my PR when you have time?/ 
   Bạn xem giúp mình pull request khi rảnh nhé?
 
-- 43. We have a merge conflict in the login file./ 
+- [43]. We have a merge conflict in the login file./ 
   Chúng ta có một xung đột khi gộp ở file login.
 
-- 44. Did you pull the latest changes before you started?/ 
+- [44]. Did you pull the latest changes before you started?/ 
   Bạn đã kéo thay đổi mới nhất về trước khi bắt đầu chưa?
 
-- 45. Let me create a new branch for this feature./ 
+- [45]. Let me create a new branch for this feature./ 
   Để tôi tạo một nhánh mới cho tính năng này.
 
-- 46. Please don’t push directly to main — open a pull request instead./ 
+- [46]. Please don’t push directly to main — open a pull request instead./ 
   Làm ơn đừng đẩy thẳng lên nhánh main — hãy mở một pull request.
 
-- 47. I stashed my changes so I could fix the urgent bug first./ 
+- [47]. I stashed my changes so I could fix the urgent bug first./ 
   Tôi đã cất tạm thay đổi để sửa con bug khẩn trước.
 
-- 48. Could you rebase your branch onto main before we merge?/ 
+- [48]. Could you rebase your branch onto main before we merge?/ 
   Bạn rebase nhánh của mình lên main trước khi ta gộp được không?
 
-- 49. I accidentally committed a secret, so I had to revert it./ 
+- [49]. I accidentally committed a secret, so I had to revert it./ 
   Tôi lỡ lưu trữ thông tin bảo mật, nên phải hoàn tác lại thao tác trước đó.
 
-- 50. Let’s squash these commits into one before merging./ 
+- [50]. Let’s squash these commits into one before merging./ 
   Ta gộp các commit này thành một trước khi merge nhé. 
 
 ### Từ vựng thường dùng 
@@ -454,6 +454,9 @@ Tôi đã thêm một giải pháp tạm, nhưng ta vẫn cần một bản sử
 | 17 | STAR method | phương án STAR (Situation, Task, Action, Result) |  
 
 > Cấu trúc câu tự giới thiệu (Present - Past - Future):
+> 
 > Hiện tại (Present simple): “I’m currently a…” / “I work as a…” — bạn là ai bây giờ.
+> 
 > Quá khứ (Past simple): “Before this, I worked at…” / “I built…” — kinh nghiệm đáng chú ý.
+> 
 > Tương lai (going to / looking to): “I’m now looking for…” / “I want to grow into…” — bạn muốn gì tiếp theo, và vì sao là vị trí này.
